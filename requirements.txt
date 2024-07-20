@@ -1,0 +1,9 @@
+streamlit==1.32.0
+Pillow==10.2.0
+google-generativeai==0.3.2
+python-dotenv==0.19.1
+
+
+# to update version to latest-----
+
+# pip freeze > requirements.txt
