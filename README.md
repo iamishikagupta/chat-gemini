@@ -2,7 +2,7 @@
 # Project Title
 Google-gemini based Chatbot application
 
-![Alt text](images/img.png)
+![Alt text](img.png)
 
 ## API Reference
 
